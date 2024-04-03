@@ -1,4 +1,4 @@
-# Resume generator
+ Resume generator
 Web based editor to create Resume in a customizable template  
   
 Try it : https://nitish6174.github.io/resume-generator/  
@@ -24,4 +24,4 @@ Try it : https://nitish6174.github.io/resume-generator/
 - Run this python file.
 - Note: As this creates a new PDF file, you may have to see permission settings or run with sudo on terminal.
 
-**Note** : Use Google Chrome
+**Note** : Use Google
